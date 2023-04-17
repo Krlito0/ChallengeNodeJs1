@@ -1,0 +1,14 @@
+{
+  "name": "challenge-1",
+  "version": "1.0.0",
+  "description": "Challenge Node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krlito",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
